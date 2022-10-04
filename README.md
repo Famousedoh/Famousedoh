@@ -4,9 +4,9 @@ I am an enthusiastic self taught Backend developer and a product of internship s
 
 I am always open to improvement, collaboration, learning in order to become the software developer that i imagine.
 
-                                    - 💬 ABOUT ME...
+                            - 💬 ABOUT ME...
                                     
-- 🔭 I’m currently working on ... Side  hustle Node JS real estate Rest API
+- 🔭 I’m currently working on ... Sidehustle/Famous-rentals RestAPI
 
 - 🌱 I’m currently learning ... Node JS | Javascript | Express| MERN STACK |
 
